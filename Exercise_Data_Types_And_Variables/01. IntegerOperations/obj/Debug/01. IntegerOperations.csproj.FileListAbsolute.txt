@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\01. IntegerOperations\bin\Debug\_01.IntegerOperations.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\01. IntegerOperations\bin\Debug\_01.IntegerOperations.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\01. IntegerOperations\bin\Debug\_01.IntegerOperations.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\01. IntegerOperations\obj\Debug\01. IntegerOperations.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\01. IntegerOperations\obj\Debug\01. IntegerOperations.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\01. IntegerOperations\obj\Debug\_01.IntegerOperations.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\01. IntegerOperations\obj\Debug\_01.IntegerOperations.pdb

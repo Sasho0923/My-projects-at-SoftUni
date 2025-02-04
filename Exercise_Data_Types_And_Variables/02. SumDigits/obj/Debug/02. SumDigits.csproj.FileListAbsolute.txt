@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\02. SumDigits\bin\Debug\_02.SumDigits.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\02. SumDigits\bin\Debug\_02.SumDigits.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\02. SumDigits\bin\Debug\_02.SumDigits.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\02. SumDigits\obj\Debug\02. SumDigits.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\02. SumDigits\obj\Debug\02. SumDigits.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\02. SumDigits\obj\Debug\_02.SumDigits.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\02. SumDigits\obj\Debug\_02.SumDigits.pdb

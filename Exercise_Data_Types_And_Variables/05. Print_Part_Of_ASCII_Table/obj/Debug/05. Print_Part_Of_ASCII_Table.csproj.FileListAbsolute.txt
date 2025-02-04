@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\05. Print_Part_Of_ASCII_Table\bin\Debug\_05.Print_Part_Of_ASCII_Table.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\05. Print_Part_Of_ASCII_Table\bin\Debug\_05.Print_Part_Of_ASCII_Table.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\05. Print_Part_Of_ASCII_Table\bin\Debug\_05.Print_Part_Of_ASCII_Table.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\05. Print_Part_Of_ASCII_Table\obj\Debug\05. Print_Part_Of_ASCII_Table.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\05. Print_Part_Of_ASCII_Table\obj\Debug\05. Print_Part_Of_ASCII_Table.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\05. Print_Part_Of_ASCII_Table\obj\Debug\_05.Print_Part_Of_ASCII_Table.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\05. Print_Part_Of_ASCII_Table\obj\Debug\_05.Print_Part_Of_ASCII_Table.pdb

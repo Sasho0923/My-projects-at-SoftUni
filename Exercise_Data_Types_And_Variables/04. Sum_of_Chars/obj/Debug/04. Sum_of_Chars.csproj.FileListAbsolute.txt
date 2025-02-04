@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\04. Sum_of_Chars\bin\Debug\_04.Sum_of_Chars.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\04. Sum_of_Chars\bin\Debug\_04.Sum_of_Chars.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\04. Sum_of_Chars\bin\Debug\_04.Sum_of_Chars.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\04. Sum_of_Chars\obj\Debug\04. Sum_of_Chars.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\04. Sum_of_Chars\obj\Debug\04. Sum_of_Chars.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\04. Sum_of_Chars\obj\Debug\_04.Sum_of_Chars.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\04. Sum_of_Chars\obj\Debug\_04.Sum_of_Chars.pdb

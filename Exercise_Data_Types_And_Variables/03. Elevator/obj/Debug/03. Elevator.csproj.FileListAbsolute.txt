@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\03. Elevator\bin\Debug\_03.Elevator.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\03. Elevator\bin\Debug\_03.Elevator.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\03. Elevator\bin\Debug\_03.Elevator.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\03. Elevator\obj\Debug\03. Elevator.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\03. Elevator\obj\Debug\03. Elevator.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\03. Elevator\obj\Debug\_03.Elevator.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Data_Types_And_Variables\03. Elevator\obj\Debug\_03.Elevator.pdb
