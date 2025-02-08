@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

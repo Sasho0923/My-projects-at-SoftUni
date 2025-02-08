@@ -1,0 +1,2 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\04. Reverse Array of Strings\obj\Debug\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\04. Reverse Array of Strings\obj\Debug\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache

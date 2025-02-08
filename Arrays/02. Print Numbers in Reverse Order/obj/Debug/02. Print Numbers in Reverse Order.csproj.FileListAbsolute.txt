@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\02. Print Numbers in Reverse Order\bin\Debug\_02.Print_Numbers_in_Reverse_Order.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\02. Print Numbers in Reverse Order\bin\Debug\_02.Print_Numbers_in_Reverse_Order.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\02. Print Numbers in Reverse Order\bin\Debug\_02.Print_Numbers_in_Reverse_Order.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\02. Print Numbers in Reverse Order\obj\Debug\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\02. Print Numbers in Reverse Order\obj\Debug\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\02. Print Numbers in Reverse Order\obj\Debug\_02.Print_Numbers_in_Reverse_Order.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Arrays\02. Print Numbers in Reverse Order\obj\Debug\_02.Print_Numbers_in_Reverse_Order.pdb
