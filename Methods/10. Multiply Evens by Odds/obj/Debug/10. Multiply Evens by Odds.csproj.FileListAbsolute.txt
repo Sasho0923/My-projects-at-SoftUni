@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\10. Multiply Evens by Odds\bin\Debug\_10.Multiply_Evens_by_Odds.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\10. Multiply Evens by Odds\bin\Debug\_10.Multiply_Evens_by_Odds.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\10. Multiply Evens by Odds\bin\Debug\_10.Multiply_Evens_by_Odds.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\10. Multiply Evens by Odds\obj\Debug\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\10. Multiply Evens by Odds\obj\Debug\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\10. Multiply Evens by Odds\obj\Debug\_10.Multiply_Evens_by_Odds.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\10. Multiply Evens by Odds\obj\Debug\_10.Multiply_Evens_by_Odds.pdb

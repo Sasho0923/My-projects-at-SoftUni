@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\09. Greater of Two Values\bin\Debug\_09.Greater_of_Two_Values.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\09. Greater of Two Values\bin\Debug\_09.Greater_of_Two_Values.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\09. Greater of Two Values\bin\Debug\_09.Greater_of_Two_Values.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\09. Greater of Two Values\obj\Debug\09. Greater of Two Values.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\09. Greater of Two Values\obj\Debug\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\09. Greater of Two Values\obj\Debug\_09.Greater_of_Two_Values.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\09. Greater of Two Values\obj\Debug\_09.Greater_of_Two_Values.pdb

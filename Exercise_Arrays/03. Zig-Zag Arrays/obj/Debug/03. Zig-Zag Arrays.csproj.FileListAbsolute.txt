@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Arrays\03. Zig-Zag Arrays\bin\Debug\_03.Zig_Zag_Arrays.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Arrays\03. Zig-Zag Arrays\bin\Debug\_03.Zig_Zag_Arrays.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Arrays\03. Zig-Zag Arrays\bin\Debug\_03.Zig_Zag_Arrays.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Arrays\03. Zig-Zag Arrays\obj\Debug\03. Zig-Zag Arrays.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Arrays\03. Zig-Zag Arrays\obj\Debug\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Arrays\03. Zig-Zag Arrays\obj\Debug\_03.Zig_Zag_Arrays.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise_Arrays\03. Zig-Zag Arrays\obj\Debug\_03.Zig_Zag_Arrays.pdb

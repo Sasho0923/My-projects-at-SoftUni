@@ -1,0 +1,2 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\07. Repeat String\obj\Debug\07. Repeat String.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\07. Repeat String\obj\Debug\07. Repeat String.csproj.CoreCompileInputs.cache

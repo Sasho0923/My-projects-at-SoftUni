@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Excercise_Arrays\05. Top Integers\bin\Debug\_05.Top_Integers.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Excercise_Arrays\05. Top Integers\bin\Debug\_05.Top_Integers.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Excercise_Arrays\05. Top Integers\bin\Debug\_05.Top_Integers.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Excercise_Arrays\05. Top Integers\obj\Debug\05. Top Integers.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Excercise_Arrays\05. Top Integers\obj\Debug\05. Top Integers.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Excercise_Arrays\05. Top Integers\obj\Debug\_05.Top_Integers.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Excercise_Arrays\05. Top Integers\obj\Debug\_05.Top_Integers.pdb

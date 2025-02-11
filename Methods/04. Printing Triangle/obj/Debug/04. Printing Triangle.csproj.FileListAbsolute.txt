@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\04. Printing Triangle\bin\Debug\_04.Printing_Triangle.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\04. Printing Triangle\bin\Debug\_04.Printing_Triangle.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\04. Printing Triangle\bin\Debug\_04.Printing_Triangle.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\04. Printing Triangle\obj\Debug\04. Printing Triangle.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\04. Printing Triangle\obj\Debug\04. Printing Triangle.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\04. Printing Triangle\obj\Debug\_04.Printing_Triangle.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Methods\04. Printing Triangle\obj\Debug\_04.Printing_Triangle.pdb

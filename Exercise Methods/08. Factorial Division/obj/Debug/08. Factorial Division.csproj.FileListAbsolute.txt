@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\08. Factorial Division\bin\Debug\_08.Factorial_Division.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\08. Factorial Division\bin\Debug\_08.Factorial_Division.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\08. Factorial Division\bin\Debug\_08.Factorial_Division.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\08. Factorial Division\obj\Debug\08. Factorial Division.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\08. Factorial Division\obj\Debug\08. Factorial Division.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\08. Factorial Division\obj\Debug\_08.Factorial_Division.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\08. Factorial Division\obj\Debug\_08.Factorial_Division.pdb

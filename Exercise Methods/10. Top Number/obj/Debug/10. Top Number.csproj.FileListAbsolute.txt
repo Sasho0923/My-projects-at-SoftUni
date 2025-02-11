@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\10. Top Number\bin\Debug\_10.Top_Number.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\10. Top Number\bin\Debug\_10.Top_Number.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\10. Top Number\bin\Debug\_10.Top_Number.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\10. Top Number\obj\Debug\10. Top Number.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\10. Top Number\obj\Debug\10. Top Number.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\10. Top Number\obj\Debug\_10.Top_Number.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exercise Methods\10. Top Number\obj\Debug\_10.Top_Number.pdb
