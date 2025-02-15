@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\02. Shoot for the Win\bin\Debug\_02.Shoot_for_the_Win.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\02. Shoot for the Win\bin\Debug\_02.Shoot_for_the_Win.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\02. Shoot for the Win\bin\Debug\_02.Shoot_for_the_Win.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\02. Shoot for the Win\obj\Debug\02. Shoot for the Win.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\02. Shoot for the Win\obj\Debug\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\02. Shoot for the Win\obj\Debug\_02.Shoot_for_the_Win.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\02. Shoot for the Win\obj\Debug\_02.Shoot_for_the_Win.pdb

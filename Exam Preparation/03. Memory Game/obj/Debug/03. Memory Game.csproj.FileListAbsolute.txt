@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\03. Memory Game\bin\Debug\_03.Memory_Game.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\03. Memory Game\bin\Debug\_03.Memory_Game.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\03. Memory Game\bin\Debug\_03.Memory_Game.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\03. Memory Game\obj\Debug\03. Memory Game.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\03. Memory Game\obj\Debug\03. Memory Game.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\03. Memory Game\obj\Debug\_03.Memory_Game.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Exam Preparation\03. Memory Game\obj\Debug\_03.Memory_Game.pdb

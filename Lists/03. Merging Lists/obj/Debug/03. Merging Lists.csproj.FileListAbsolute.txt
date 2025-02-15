@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Lists\03. Merging Lists\bin\Debug\_03.Merging_Lists.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Lists\03. Merging Lists\bin\Debug\_03.Merging_Lists.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Lists\03. Merging Lists\bin\Debug\_03.Merging_Lists.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Lists\03. Merging Lists\obj\Debug\03. Merging Lists.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Lists\03. Merging Lists\obj\Debug\03. Merging Lists.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Lists\03. Merging Lists\obj\Debug\_03.Merging_Lists.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Lists\03. Merging Lists\obj\Debug\_03.Merging_Lists.pdb
