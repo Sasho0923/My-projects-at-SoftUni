@@ -1,0 +1,15 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\bin\Debug\net8.0\Task 3.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\bin\Debug\net8.0\Task 3.deps.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\bin\Debug\net8.0\Task 3.runtimeconfig.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\bin\Debug\net8.0\Task 3.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\bin\Debug\net8.0\Task 3.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\Task 3.AssemblyInfoInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\Task 3.AssemblyInfo.cs
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\Task 3.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\Task 3.sourcelink.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\Task 3.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\refint\Task 3.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\Task 3.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\Task 3.genruntimeconfig.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Demo Test\obj\Debug\net8.0\ref\Task 3.dll

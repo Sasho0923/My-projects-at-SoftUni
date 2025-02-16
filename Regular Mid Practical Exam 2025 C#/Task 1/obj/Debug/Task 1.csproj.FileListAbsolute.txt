@@ -1,0 +1,7 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Task 1\bin\Debug\Task 1.exe.config
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Task 1\bin\Debug\Task 1.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Task 1\bin\Debug\Task 1.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Task 1\obj\Debug\Task 1.csproj.AssemblyReference.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Task 1\obj\Debug\Task 1.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Mid Practical Exam 2025 C#\Task 1\obj\Debug\Task 1.pdb
