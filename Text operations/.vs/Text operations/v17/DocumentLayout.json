@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4386B2-5264-4317-8C3C-F22FFB418887}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|e:\\github\\soft uni 2025-26 c# fundamentals\\my-projects-at-softuni\\text operations\\05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4386B2-5264-4317-8C3C-F22FFB418887}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|solutionrelative:05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95BE12B-154A-4F7D-98AD-7A0D08689655}|04. Text Filter\\04. Text Filter.csproj|e:\\github\\soft uni 2025-26 c# fundamentals\\my-projects-at-softuni\\text operations\\04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95BE12B-154A-4F7D-98AD-7A0D08689655}|04. Text Filter\\04. Text Filter.csproj|solutionrelative:04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB34869A-FF2E-4A98-973A-DACAB9192F18}|03. Substring\\03. Substring.csproj|e:\\github\\soft uni 2025-26 c# fundamentals\\my-projects-at-softuni\\text operations\\03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB34869A-FF2E-4A98-973A-DACAB9192F18}|03. Substring\\03. Substring.csproj|solutionrelative:03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2026CD75-3DE7-407E-8F7D-F115952603DD}|02. Repeat Strings\\02. Repeat Strings.csproj|e:\\github\\soft uni 2025-26 c# fundamentals\\my-projects-at-softuni\\text operations\\02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2026CD75-3DE7-407E-8F7D-F115952603DD}|02. Repeat Strings\\02. Repeat Strings.csproj|solutionrelative:02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECC3C3B-CB11-4EF5-9261-6139BC0022C9}|01. Reverse Strings\\01. Reverse Strings.csproj|e:\\github\\soft uni 2025-26 c# fundamentals\\my-projects-at-softuni\\text operations\\01. reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECC3C3B-CB11-4EF5-9261-6139BC0022C9}|01. Reverse Strings\\01. Reverse Strings.csproj|solutionrelative:01. reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeDocumentMoniker": "05. Digits, Letters and Other\\Program.cs",
+              "ToolTip": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeToolTip": "05. Digits, Letters and Other\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:58:09.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\04. Text Filter\\Program.cs",
+              "RelativeDocumentMoniker": "04. Text Filter\\Program.cs",
+              "ToolTip": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\04. Text Filter\\Program.cs",
+              "RelativeToolTip": "04. Text Filter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:54:09.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\03. Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03. Substring\\Program.cs",
+              "ToolTip": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\03. Substring\\Program.cs",
+              "RelativeToolTip": "03. Substring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:11:53.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\02. Repeat Strings\\Program.cs",
+              "RelativeDocumentMoniker": "02. Repeat Strings\\Program.cs",
+              "ToolTip": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\02. Repeat Strings\\Program.cs",
+              "RelativeToolTip": "02. Repeat Strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:07:58.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\01. Reverse Strings\\Program.cs",
+              "RelativeDocumentMoniker": "01. Reverse Strings\\Program.cs",
+              "ToolTip": "E:\\GitHub\\Soft Uni 2025-26 C# Fundamentals\\My-projects-at-SoftUni\\Text operations\\01. Reverse Strings\\Program.cs",
+              "RelativeToolTip": "01. Reverse Strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:07:01.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
