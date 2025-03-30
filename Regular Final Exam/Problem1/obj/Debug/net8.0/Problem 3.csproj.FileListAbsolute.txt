@@ -1,0 +1,15 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\bin\Debug\net8.0\Problem 3.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\bin\Debug\net8.0\Problem 3.deps.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\bin\Debug\net8.0\Problem 3.runtimeconfig.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\bin\Debug\net8.0\Problem 3.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\bin\Debug\net8.0\Problem 3.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\Problem 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\Problem 3.AssemblyInfoInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\Problem 3.AssemblyInfo.cs
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\Problem 3.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\Problem 3.sourcelink.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\Problem 3.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\refint\Problem 3.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\Problem 3.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\Problem 3.genruntimeconfig.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Problem1\obj\Debug\net8.0\ref\Problem 3.dll

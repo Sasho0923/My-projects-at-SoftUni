@@ -1,0 +1,15 @@
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\bin\Debug\net8.0\Test.exe
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\bin\Debug\net8.0\Test.deps.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\bin\Debug\net8.0\Test.runtimeconfig.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\bin\Debug\net8.0\Test.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\bin\Debug\net8.0\Test.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\Test.AssemblyInfoInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\Test.AssemblyInfo.cs
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\Test.csproj.CoreCompileInputs.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\Test.sourcelink.json
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\Test.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\refint\Test.dll
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\Test.pdb
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
+E:\GitHub\Soft Uni 2025-26 C# Fundamentals\My-projects-at-SoftUni\Regular Final Exam\Test\obj\Debug\net8.0\ref\Test.dll
